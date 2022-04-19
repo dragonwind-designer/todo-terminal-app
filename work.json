@@ -1,0 +1,12 @@
+{
+    "sleep": {
+        "name": "Sleep",
+        "time": "10PM",
+        "description": "Sleep for 5 hour"
+    },
+    "eat": {
+        "name": "Eat",
+        "time": "7PM",
+        "description": "Will be eating at 7pm"
+    }
+}
